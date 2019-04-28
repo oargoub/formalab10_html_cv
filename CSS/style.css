@@ -1,0 +1,42 @@
+/*/**{
+    color:red;
+} 
+.parableu
+{
+    color :blue;
+}
+#parared{
+    color :red;
+}
+h1,h2{
+    color :#FF6600
+}*/
+.bleu{
+    color:blue;
+}
+p.vert
+{
+    color:green;
+}
+.vt{
+    color:green;
+}
+.bord{
+    border:1px solid green
+
+}
+a{color:red;text-decoration: none;
+
+}/*  TEXT-DECORATION:   POUR supprimer la bar du lien     */
+a:hover{
+    color:green;text-decoration:underline;
+}/*    :HOVER:   pseudo élèment:changement de désign apres chaque action   */
+a:visited
+{
+    color:grey;
+}/*   VISITED:     si le site est déja visité  */
+
+h3
+{
+    color :blue;
+}
